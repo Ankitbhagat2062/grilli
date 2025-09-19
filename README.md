@@ -3,8 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/Ankitbhagat2062/grilli)
   ![GitHub stars](https://img.shields.io/github/stars/Ankitbhagat2062/grilli?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/Ankitbhagat2062/grilli?style=social)
-[![Facebook Follow](https://static.xx.fbcdn.net/rsrc.php/y1/r/ay1hV6OlegS.ico?styel=social)](https://www.facebook.com/people/Ankit-Bhagat/pfbid02MGWNj66ZkJt87E1jawKgMqqh7kBfEm6M7pNa3jtnkRT2Nj7kACqLjF5R1vYtzNntl/)
-  
   <br />
   <br />
 
@@ -44,9 +42,18 @@ Windows:
 git clone https://github.com/Ankitbhagat2062/grilli.git
 ```
 
-### Contact
+### 📞 Contact & Social Media
 
 If you want to contact with me you can reach me at [Facebook](https://www.facebook.com/profile.php?id=100087776815958).
+
+Connect with me on various platforms:
+| Social Media | UserName | Profile |
+|----------|-------------|----------|
+|[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ankit.bhagat.865533)|ankit.bhagat.865533| [Ankit Bhagat](https://facebook.com/ankit.bhagat.865533) |
+|[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AnkitBhaga53031)|AnkitBhaga53031 |[Ankit Bhagat](https://twitter.com/AnkitBhaga53031) | 
+|[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ankitbhagat2064)|@ankitbhagat2064 | [Ankit Bhagat](https://youtube.com/@ankitbhagat2064)|
+|[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ankitbhagat56547)| ankitbhagat56547| [Ankit Bhagat](https://instagram.com/ankitbhagat56547)|
+|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?)](https://linkedin.com/in/ankit-bhagat-8483a0313)| ankit-bhagat-8483a0313| [Ankit Bhagat](https://linkedin.com/in/ankit-bhagat-8483a0313)|
 
 ### License
 
