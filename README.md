@@ -58,3 +58,19 @@ Connect with me on various platforms:
 ### License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+#PRELOADER
+#TOP BAR
+#README (newly added)
+#HEADER
+#HERO
+#SERVICE
+#ABOUT
+#SPECIAL DISH
+#MENU
+#TESTIMONIALS
+#RESERVATION
+#FEATURES
+#EVENT
+#FOOTER
+#BACK TO TOP
